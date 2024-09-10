@@ -1,1 +1,1 @@
-# journalApp
+# Spring Boot Backend for journalApp
